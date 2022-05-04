@@ -2,7 +2,7 @@
   
 ## Tribute Page    
   
-<img src="tribute-page.png">
+<img src="TributePage.png">
           
 <img src="calculator.png">
   
