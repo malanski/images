@@ -4,4 +4,4 @@
   
 <img src="tribute-page.png">
           
-<img src="">
+<img src="calculator.png">
