@@ -10,4 +10,7 @@
   
 <img src="pokestore1.png">
 
-<img src="Cron.png">
+<img src="CronReactJS.png">
+
+
+
