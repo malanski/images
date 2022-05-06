@@ -21,4 +21,6 @@
 
 <img src="Quote.png">
 
+<img src="XGame.png">
+
 
