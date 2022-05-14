@@ -25,4 +25,9 @@
 
 <img src="logo-empuxo2.jpeg">
 
+<img src="project.jpeg">
+
+<img src="responsive.gif">
+
+
 
