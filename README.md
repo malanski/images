@@ -37,7 +37,7 @@
 
 <img src="weather-weekly.png">
 
-<img src="starwars.png">
+<img src="starwars1.png">
 
 
 
