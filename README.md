@@ -35,5 +35,7 @@
 
 <img src="nodeExample.png">
 
+<img src="weather-weekly.png">
+
 
 
