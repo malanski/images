@@ -33,5 +33,14 @@
 
 <img src="CoursesRank.png">
 
+<img src="nodeExample.png">
+
+<img src="weather-weekly.png">
+
+<img src="starwars1.png">
+
+<img src="ableton.png">
+<img src="nuendo-logo.png">
+
 
 
