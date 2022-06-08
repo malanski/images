@@ -43,7 +43,7 @@
 
 <img src="nuendo-logo.png">
 
-<img src="spotifu-client.png">
+<img src="spotify-client.png">
 
 
 
