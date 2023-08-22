@@ -1,7 +1,7 @@
 # Project's Screenshot  
   
-## Tribute Page    
-
+<img src="movieinfo.jpg">  
+  
 <img src="todoTask.png">  
   
 <img src="crudFullStack.png">
