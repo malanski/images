@@ -1,5 +1,7 @@
 # Project's Screenshot  
   
+<img src="malanskiArtStore.png">  
+  
 <img src="movieinfo.jpg">  
   
 <img src="todoTask.png">  
