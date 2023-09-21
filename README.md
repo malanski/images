@@ -1,5 +1,7 @@
 # Project's Screenshot  
   
+<img src="malanskiArtStore.png">  
+  
 <img src="coffee-delivery.jpg">  
    
 <img src="movieinfo.jpg">  
